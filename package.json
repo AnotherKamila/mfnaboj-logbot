@@ -1,0 +1,13 @@
+{
+    "name": "logbot",
+    "description": "a log-analyzing bot which provides statistics on demand thru various channels",
+    "version": "0.0.1",
+    "engines": {
+        "node": "0.6.x",
+        "coffee-script": "1.3.x"
+    },
+    "dependencies": {
+        "irc": "0.3.x",
+        "coffee-script": "1.3.x"
+    }
+}
